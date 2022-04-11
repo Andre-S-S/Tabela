@@ -1,0 +1,221 @@
+table {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    border: 1px solid #DDDDDD;
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: 1px solid #DDDDDD;
+    font-size: 13px;
+    color: #999999;
+    text-align: center;
+}
+
+td {
+    border-bottom: 1px solid #DDDDDD;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+.posicao-libertadores {
+    color: #003366;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30px;   
+}
+
+.posicao-prelibertadores {
+    color:#1398BE;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30px;
+}
+
+.posicao-sulamericana {
+    color: #DE9800;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30px;
+}
+
+.posicao-naoclassificado {
+    color:#CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30px;
+}
+
+.posicao-rebaixado {
+    color: #C91B04;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30px;
+}
+
+.time {
+    color: #666666;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    width: 215px;
+}
+
+.pontos {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 35px;
+}
+
+.jogos {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    width: 35px;
+}
+
+.vitorias {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 35px;
+}
+
+.empate {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    width: 35px;
+}
+
+.derrota {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 35px;
+}
+
+.gp {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    width: 35px;
+}
+
+.gc {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 35px;
+}
+
+.sg {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    width: 35px;
+}
+
+.porcentagem {
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 40px;
+}
+
+.santos {
+    border-bottom: 2px solid #CCCCCC;
+}
+
+.atletico-pr {
+    border-bottom: 2px solid #CCCCCC;
+}
+
+.libertadores-cor {
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 10px;
+    height: 10px;
+    background-color: #003366;
+}
+
+.libertadores {
+    margin-top: -10px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.pre-libertadores-cor {
+    margin-top: -10px;
+    margin-left: 135px;
+    width: 10px;
+    height: 10px;
+    background-color: #1398BE;
+}
+
+.pre-libertadores {
+    margin-top: -10px;
+    margin-left: 150px;
+    text-align: left;
+}
+
+.sul-americana-cor {
+    margin-top: -10px;
+    margin-left: 260px;
+    width: 10px;
+    height: 10px;
+    background-color: #DE9800;
+}
+
+.sul-americana {
+    margin-top: -10px;
+    margin-left: 275px;
+    text-align: left;
+}
+
+.rebaixados-cor {
+    margin-top: -10px;
+    margin-left: 365px;
+    width: 10px;
+    height: 10px;
+    background-color: #C91B04;
+}
+
+.rebaixados {
+    margin-top: -10px;
+    margin-left: 380px;
+    text-align: left;
+}
+
+.legenda-classificacao {
+    font-size: 10px;
+    text-align: left;
+    border-bottom: 0px;
+    color: #8F8F8F;
+}
+
+.legenda-siginificado {
+    font-size: 10px;
+    text-align: left;
+    margin-left: 100px;
+    color: #555555;
+}
+
+.legenda {
+    margin-left: 5px;
+}
